@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "nickname": "@UsuarioFake",
+    "nickname": "@GauthamGopinadh",
     "followers": 2000,
     "followersOverview": 150,
     "type": "facebook",
@@ -9,7 +9,7 @@
   },
   {
     "id": "2",
-    "nickname": "@UsuarioFake_oficial",
+    "nickname": "@GauthamTwit",
     "followers": 1044,
     "followersOverview": 99,
     "type": "twitter",
@@ -17,7 +17,7 @@
   },
   {
     "id": "3",
-    "nickname": "@realusuarioFake",
+    "nickname": "@GauthamInst",
     "followers": 1100,
     "followersOverview": 1099,
     "type": "instagram",
@@ -25,7 +25,7 @@
   },
   {
     "id": "4",
-    "nickname": "Usuario F.",
+    "nickname": "Gautham G.",
     "followers": 8239,
     "followersOverview": 144,
     "type": "youtube",
